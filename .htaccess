@@ -1,0 +1,4 @@
+RewriteEngine On
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteRule .* http://192.168.0.15/~user11/perl/perl-camel/index.pl [L,QSA]
+

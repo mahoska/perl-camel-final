@@ -1,0 +1,14 @@
+<?xml version='1.0'?>
+<configuration>
+    <dbType>mysql</dbType>    
+    <dbName>user11</dbName>
+    <dbHost>localhost</dbHost>
+    <dbUser>user11</dbUser>
+    <dbPassword>tuser11</dbPassword>
+    <cookieName>CamelTeam</cookieName>
+    <cookiePath>webroot/tmp/</cookiePath>
+    <cookieLife>+1h</cookieLife>
+</configuration>
+
+
+<!---create user_15-->
